@@ -93,7 +93,7 @@
 
 ## 📌 Featured Projects
 
-### Healthcare & Doctor Appointment Management System
+### CareConnect – Healthcare & Appointment Management Platform
 - Built using Microservices Architecture
 - Spring Cloud Gateway & Eureka Server
 - JWT-based Authentication & Authorization
